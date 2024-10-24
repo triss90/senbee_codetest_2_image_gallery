@@ -22,7 +22,7 @@ Create a responsive and dynamic image gallery web application using native JavaS
 
 ## Getting Started
 1. Clone this repository.
-2. Use the provided images in the `images/` folder or add your own.
+2. Use the provided images in the `public/images/` folder or add your own.
 3. Build the application according to the requirements.
 
 ## Bonus Points
