@@ -29,6 +29,7 @@ Create a responsive and dynamic image gallery web application using native JavaS
 - Adding subtle animations and hover effects for a modern look.
 - Implementing a search/filter function for the gallery (optional).
 - Using CSS transitions for smooth opening/closing of the modal.
+- Optimizing images and image delivery
 
 ## Submission
 Push your code to a GitHub repository and share the link.
